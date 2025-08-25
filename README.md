@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Murtuza  
 
-🚀 **Blockchain & frontend Developer** JavaScript | React.js| Web3 | AI Enthusiast  
+🚀 **frontend Developer & BlockChain** JavaScript | React.js| Web3 | AI Enthusiast  
 
 ---
 
@@ -13,6 +13,14 @@
 
 ---
 
+
+## 🌱 Currently Learning  
+
+- ☕ **Core Java & Spring Framework** – for backend & enterprise application development  
+- 🤖 **Machine Learning** – exploring AI models & real-world applications  
+- 🗄️ **Oracle Developer Certification** – strengthening database & SQL expertise  
+
+---  
 ## 🛠️ Tech Stack  
 
 **Languages**  
