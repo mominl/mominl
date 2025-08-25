@@ -1,13 +1,65 @@
-- 👋 Hi, I’m @mominl
-- 👀 I’m interested in Fullsatck Dev,Devops , Blockchain and Ai
-- 🌱 I’m currently learning Machine learning and nodejs 
-- 💞️ I’m looking to collaborate with the projects, hackathon
-- 📫 How to reach me in a linkdin
-- https://www.linkedin.com/in/mohammad-murtuza-mohammad-mustafa-102749203/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Mohammed Murtuza  
 
-<!---
-mominl/mominl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Blockchain & Fullstack Developer** | React.js | Node.js | Web3 | AI Enthusiast  
+
+---
+
+## 🔥 About Me  
+- 🎓 Computer Engineering student @ Zeal College of Engineering, Pune (2022-2026)  
+- 💡 Skilled in **Frontend (React, JS, CSS)** & **Backend (Node.js, Express.js, Solidity, Ether.js)**  
+- 🌱 Currently learning **Machine Learning & Blockchain (Solana, Ethereum)**  
+- 🤝 Open to **hackathons, open-source projects, and collaborations**  
+- 🎯 Passionate about building **real-world applications**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+
+**Backend & Blockchain**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)  
+![Ethers.js](https://img.shields.io/badge/Ethers.js-1C1C1C?logo=ethereum&logoColor=white)  
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)  
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)  
+
+---
+
+## 🚀 Projects  
+
+- 🌐 [**Actualone**](http://actualone.xyz) → Marketing website with Framer & interactive motion design  
+- 🎮 [**GameFun**](http://gamefun.vercel.app) → Meme Coin Launcher Marketplace for Gamers (Web3 + Solana + Phantom Wallet)  
+- 💰 Personal Expense Tracker → DBMS-based expense management app  
+- 👕 AI Outfit Recommendation → AI-powered clothing suggestion system  
+
+---
+
+## 📊 GitHub Stats  
+
+![Murtuza's GitHub stats](https://github-readme-stats.vercel.app/api?username=momInl&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momInl&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-murtuza-mohammad-mustafa-102749203/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/momInl)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtuza9270@gmail.com)  
+
+---
