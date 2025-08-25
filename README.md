@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Mohammed Murtuza  
 
-🚀 **Blockchain & Fullstack Developer** | React.js | Node.js | Web3 | AI Enthusiast  
+🚀 **Blockchain & frontend Developer** JavaScript | React.js| Web3 | AI Enthusiast  
 
 ---
 
 ## 🔥 About Me  
 - 🎓 Computer Engineering student @ Zeal College of Engineering, Pune (2022-2026)  
-- 💡 Skilled in **Frontend (React, JS, CSS)** & **Backend (Node.js, Express.js, Solidity, Ether.js)**  
-- 🌱 Currently learning **Machine Learning & Blockchain (Solana, Ethereum)**  
+- 💡 Skilled in **Frontend (React, JS, CSS)**  
+- 🌱 Currently learning **Machine Learning & Blockchain (Solana, Ethereum) & backend Spring FrameWork**  
 - 🤝 Open to **hackathons, open-source projects, and collaborations**  
 - 🎯 Passionate about building **real-world applications**  
 
@@ -17,8 +17,7 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)   
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 
 **Frontend**  
@@ -27,9 +26,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
-**Backend & Blockchain**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+**Backend & Blockchain** 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)  
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-1C1C1C?logo=ethereum&logoColor=white)  
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)  
