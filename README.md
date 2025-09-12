@@ -35,6 +35,8 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
 **Backend & Blockchain** 
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)]()
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)  
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-1C1C1C?logo=ethereum&logoColor=white)  
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white)  
