@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Murtuza  
 
-🚀 **frontend Developer & BlockChain** JavaScript | React.js| Web3 | AI Enthusiast  
+🚀 **Developer Spring & SpringBoot | JavaScript | React.js| Web3 | AI Enthusiast  
 
 ---
 
