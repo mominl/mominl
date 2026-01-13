@@ -6,7 +6,7 @@
 
 ## 🔥 About Me  
 - 🎓 Computer Engineering student @ Zeal College of Engineering, Pune (2022-2026)  
-- 💡 Skilled in **Frontend (React, JS, CSS)**  
+- 💡 Skilled in **FullStack Development (Spring Framework and SpringBoot , React, JS, CSS)**  
 - 🌱 Currently learning **Machine Learning & Blockchain (Solana, Ethereum) & backend Spring FrameWork**  
 - 🤝 Open to **hackathons, open-source projects, and collaborations**  
 - 🎯 Passionate about building **real-world applications**  
